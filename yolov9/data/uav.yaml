@@ -1,0 +1,12 @@
+path: /home/ioe43/zhoushenbo/yolov9/data
+# train: /home/ioe43/zhoushenbo/yolov9/data/images/train2017
+# val: /home/ioe43/zhoushenbo/yolov9/data/images/train2017
+# test: /home/ioe43/zhoushenbo/yolov9/data/images/train2017
+train: train.txt
+val: val.txt
+test: test.txt
+
+# Clsses
+names: ['car','truck','bus','van','freight_car']
+# names: ['airplane','ship','storage_tank','baseball_diamond','tennis_court','basketball_court','ground_track_field','harbor','bridge','vehicle']
+

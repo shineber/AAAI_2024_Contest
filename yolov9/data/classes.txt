@@ -1,0 +1,5 @@
+car
+truck
+bus
+van
+freight_car
